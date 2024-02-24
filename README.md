@@ -1,3 +1,42 @@
+
+## notes
+- Edamam api 
+- create npx create-react-app food recipe
+- tailwind css configeratiion 
+- npm i react-icons react-router-dom
+- fetch the data an displayed
+
+
+
+
+
+
+## references
+- https://github.com/CodeWaveWithAsante/FLAVORVERSE/tree/main
+
+
+- https://developer.edamam.com/admin/applications
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
